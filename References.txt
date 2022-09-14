@@ -1,0 +1,19 @@
+https://www.geeksforgeeks.org/downloading-files-web-using-python/
+https://stackoverflow.com/questions/57270165/how-to-download-multiple-files-using-python-3-7
+https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
+https://docs.tweepy.org/en/stable/authentication.html#twitter-api-v2
+https://stackoverflow.com/questions/38111125/typeerror-init-got-an-unexpected-keyword-argument-wait-on-rate-limit
+https://towardsdatascience.com/twitter-json-data-processing-3f353a5deac4
+https://stackoverflow.com/questions/54942467/loop-when-scraping-with-python
+https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file/12309296#12309296
+To print the length of a list: https://stackabuse.com/python-get-number-of-elements-in-a-list/
+String formatting: https://realpython.com/python-f-strings/ 
+Merging Datasets: https://pandas.pydata.org/docs/user_guide/merging.html
+			https://stackoverflow.com/questions/44327999/python-pandas-merge-multiple-dataframes
+Extracting strings from urls:https://stackoverflow.com/questions/3075130/what-is-the-difference-between-and-regular-expressions
+					https://stackoverflow.com/questions/17695662/extract-a-part-of-url-python 
+https://stackoverflow.com/questions/20602947/append-column-to-pandas-dataframe
+https://stackoverflow.com/questions/22245171/how-to-lowercase-a-python-dataframe-string-column-if-it-has-missing-values
+https://stackoverflow.com/questions/33179122/seaborn-countplot-with-frequencies
+https://stackoverflow.com/questions/32891211/limit-the-number-of-groups-shown-in-seaborn-countplot
+https://stackoverflow.com/questions/28931224/how-to-add-value-labels-on-a-bar-chart
