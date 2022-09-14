@@ -12,7 +12,7 @@ Please, find below the URL to redirect to the project Jupyter Notebook.
 
 [Project: Wrangle and Analyze Data][project02_url]
 
-[project02_url]: 
+[project02_url]: https://github.com/Barakacalvin/Udacity-Data-Analyst---Analyze-Twitter-Data/blob/main/wrangle_act%20.ipynb
 ********************************************************************************
 
 ## Project Submission
